@@ -1,1 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Customer Care Ceneter</title>
+    <link rel="stylesheet" href="./welcome.css">
+</head>
+
+<body>
+  <div >
+   <b><Home>Home</Home>><Home>Bills & E-Payments</Home>><home>My Account</home>><Home>Careers</Home>><Home>Contact us</Home>><Home>FAQs</Home></b>
+</div> <br>
+
+    <img src="./who-are-we-1.jpg    " alt="CCC" aria-setsize="100%" >
+    <h3><pre> <Home> Customer Services > Customer Care Centers  </pre></h3  
+
+        <hr><hr>    
+
+        <h4> <u>Who We Are:</u></h4>
+        <h4>Who We Are</h4>
+        <p>
+            K-Electric (KE) energizing Karachi for over one hundred years. Through a network spanning across 6,500 square kilometres, KE supplies power to all residential, commercial, industrial and agricultural areas that fall under the city’s ambit and beyond, serving over 3.4 million customers across Karachi, Dhabeji and Gharo in Sindh, and Uthal, Vinder and Bela in Balochistan.
+        
+        KE is the only vertically-integrated power utility in Pakistan, which means the organisation manages all three key areas – Generation, Transmission and Distribution – of producing and delivering energy to consumers.
+        </p>
+        <center> <p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/TLQlomb2Qwk?si=sc-B-O6rUaLXVXXq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <p>Formerly known as Karachi Electric Supply Company Limited, the power utility is an integral part of one of the world’s most populous cities. In 2009, KES Power Limited, the majority shareholder of KE, put into place a turnaround strategy which has seen investments of over USD 4.1 billion. These have resulted in 1,057 MW being added to the company’s Generation capacity and Transmission & Distribution capacity has been increased by approximately 29% and 60% respectively, followed by a 15.5% point reduction in Transmission & Distribution losses. K-Electric’s transformation is a globally recognised success story of business excellence.
+        
+            KE is proud to be one of the most dynamic institutions in the country and the organisation aspires to continuously serve Karachi with even greater vigour and purpose with the collective support of all its stakeholders.</p>
+        </p>></center>
+
+        <p>
+    Customers can conveniently visit any KE Customer Care Centre (CCC) of their choice, regardless of their power connection’s physical location in Karachi, for billing information, new connection and other services.<br><br>
+
+    With 27 Customer Care Centres (26 CCCs and 01 Mega Centre) located across Karachi and 13 IOW (Mobile Vans) and 36 CFC (Customer Facilitation Centers) also operational, K-Electric prioritizes accessibility for its customers and ensures that no customer is too far away.<br><br>
+    
+    In addition to its front offices, KE also offers a wide range of customer care touch points including:<br> <br>
+<ul>
+    <dt>
+<li>118 Response Centre – one of the largest corporate call centres in Pakistan</li><br>
+ <li>   8119 SMS Service – ensures customers are updated about the power situation in their area. Register HERE</li><br>
+ <li>  Social Care – reach out to us directly for complaints and queries on Facebook and Twitter 24/7 for an immediate response</li></dt><br>
+</ul></p>
+
+<h4> <u>All CC Timings</u></h4>
+<table border="2px" >
+
+<tr >
+<th>Days</th>
+<th>Public Dealing Timings</th>
+<th>Friday Prayer Break</th></tr><br>
+<tr>
+<td>Monday to Thursday</td>
+<td>09:00 AM to 05:30 PM</td>
+<td></td>
+</tr>
+
+<tr>
+    <td>Friday</td>
+    <td></td>
+    <td>09:00 AM to 05:30 PM</td>
+    </tr>
+    
+    <tr>
+        <td>Saturday</td>
+        <td>09:00 AM to 12:30 PM</td>
+        <td> </td>
+        </tr>
+</table>
+
+<h4> <u>Mega Center Timings</u></h4>
+<table border="2px" >
+<tr>
+<th>Days</th>
+<th>Public Dealing Timings</th>
+
+<tr>
+<td>Monday to Saturday</td>
+<td>09:00 AM to 07:00 PM</td>
+<td></td>
+</tr>
+
+<tr>
+    <td>Sunday</td>
+    <td>09:00 AM to 03:00 PM</td>
+    <td></td>
+    </tr>
+    
+    <tr>
+        <td>Saturday</td>
+        <td>09:00 AM to 12:30 PM</td>
+        <td> </td>
+        </tr>
+        </table><br>
+        
+        <foam>
+           <label>Search Locations:</label> <input type="search"  placeholder="search">
+        </foam><br>
+        <div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d28955.108548123193!2d67.18501495000001!3d24.8847242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1703687258298!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>       
+        </div>
+    </body>
+<p><h3>Connect with us</h3></p>
+<a  href="https://www.facebook.com/KElectricPk/"><img src="./fb.png" width="100px"  alt="FB"></a>
+<a href="https://twitter.com/messages/compose?recipient_id=539038993"> <img src="./Twitter.png" width="100px alt="Twiiter">  </a>
+<a href="https://www.instagram.com/kelectricpk/"> <img src="./insta.jpg" width="100px alt="instagram"> </a>  
+</html>
+
+
+
+
 
